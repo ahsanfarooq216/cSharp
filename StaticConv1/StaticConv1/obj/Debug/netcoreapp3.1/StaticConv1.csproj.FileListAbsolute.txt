@@ -1,0 +1,13 @@
+C:\Users\ahsan\Desktop\Progs\cSharp\StaticConv1\StaticConv1\bin\Debug\netcoreapp3.1\StaticConv1.exe
+C:\Users\ahsan\Desktop\Progs\cSharp\StaticConv1\StaticConv1\bin\Debug\netcoreapp3.1\StaticConv1.deps.json
+C:\Users\ahsan\Desktop\Progs\cSharp\StaticConv1\StaticConv1\bin\Debug\netcoreapp3.1\StaticConv1.runtimeconfig.json
+C:\Users\ahsan\Desktop\Progs\cSharp\StaticConv1\StaticConv1\bin\Debug\netcoreapp3.1\StaticConv1.runtimeconfig.dev.json
+C:\Users\ahsan\Desktop\Progs\cSharp\StaticConv1\StaticConv1\bin\Debug\netcoreapp3.1\StaticConv1.dll
+C:\Users\ahsan\Desktop\Progs\cSharp\StaticConv1\StaticConv1\bin\Debug\netcoreapp3.1\StaticConv1.pdb
+C:\Users\ahsan\Desktop\Progs\cSharp\StaticConv1\StaticConv1\obj\Debug\netcoreapp3.1\StaticConv1.csprojAssemblyReference.cache
+C:\Users\ahsan\Desktop\Progs\cSharp\StaticConv1\StaticConv1\obj\Debug\netcoreapp3.1\StaticConv1.csproj.CoreCompileInputs.cache
+C:\Users\ahsan\Desktop\Progs\cSharp\StaticConv1\StaticConv1\obj\Debug\netcoreapp3.1\StaticConv1.AssemblyInfoInputs.cache
+C:\Users\ahsan\Desktop\Progs\cSharp\StaticConv1\StaticConv1\obj\Debug\netcoreapp3.1\StaticConv1.AssemblyInfo.cs
+C:\Users\ahsan\Desktop\Progs\cSharp\StaticConv1\StaticConv1\obj\Debug\netcoreapp3.1\StaticConv1.dll
+C:\Users\ahsan\Desktop\Progs\cSharp\StaticConv1\StaticConv1\obj\Debug\netcoreapp3.1\StaticConv1.pdb
+C:\Users\ahsan\Desktop\Progs\cSharp\StaticConv1\StaticConv1\obj\Debug\netcoreapp3.1\StaticConv1.genruntimeconfig.cache

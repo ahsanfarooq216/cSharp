@@ -1,0 +1,13 @@
+C:\Users\ahsan\Desktop\Progs\cSharp\StreamReadWrite\StreamReadWrite\bin\Debug\netcoreapp3.1\StreamReadWrite.exe
+C:\Users\ahsan\Desktop\Progs\cSharp\StreamReadWrite\StreamReadWrite\bin\Debug\netcoreapp3.1\StreamReadWrite.deps.json
+C:\Users\ahsan\Desktop\Progs\cSharp\StreamReadWrite\StreamReadWrite\bin\Debug\netcoreapp3.1\StreamReadWrite.runtimeconfig.json
+C:\Users\ahsan\Desktop\Progs\cSharp\StreamReadWrite\StreamReadWrite\bin\Debug\netcoreapp3.1\StreamReadWrite.runtimeconfig.dev.json
+C:\Users\ahsan\Desktop\Progs\cSharp\StreamReadWrite\StreamReadWrite\bin\Debug\netcoreapp3.1\StreamReadWrite.dll
+C:\Users\ahsan\Desktop\Progs\cSharp\StreamReadWrite\StreamReadWrite\bin\Debug\netcoreapp3.1\StreamReadWrite.pdb
+C:\Users\ahsan\Desktop\Progs\cSharp\StreamReadWrite\StreamReadWrite\obj\Debug\netcoreapp3.1\StreamReadWrite.csprojAssemblyReference.cache
+C:\Users\ahsan\Desktop\Progs\cSharp\StreamReadWrite\StreamReadWrite\obj\Debug\netcoreapp3.1\StreamReadWrite.csproj.CoreCompileInputs.cache
+C:\Users\ahsan\Desktop\Progs\cSharp\StreamReadWrite\StreamReadWrite\obj\Debug\netcoreapp3.1\StreamReadWrite.AssemblyInfoInputs.cache
+C:\Users\ahsan\Desktop\Progs\cSharp\StreamReadWrite\StreamReadWrite\obj\Debug\netcoreapp3.1\StreamReadWrite.AssemblyInfo.cs
+C:\Users\ahsan\Desktop\Progs\cSharp\StreamReadWrite\StreamReadWrite\obj\Debug\netcoreapp3.1\StreamReadWrite.dll
+C:\Users\ahsan\Desktop\Progs\cSharp\StreamReadWrite\StreamReadWrite\obj\Debug\netcoreapp3.1\StreamReadWrite.pdb
+C:\Users\ahsan\Desktop\Progs\cSharp\StreamReadWrite\StreamReadWrite\obj\Debug\netcoreapp3.1\StreamReadWrite.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ahsan\Desktop\Progs\cSharp\Cars2\Cars2\obj\Debug\netcoreapp3.1\Cars2.csprojAssemblyReference.cache
+C:\Users\ahsan\Desktop\Progs\cSharp\Cars2\Cars2\obj\Debug\netcoreapp3.1\Cars2.csproj.CoreCompileInputs.cache
+C:\Users\ahsan\Desktop\Progs\cSharp\Cars2\Cars2\obj\Debug\netcoreapp3.1\Cars2.AssemblyInfoInputs.cache
+C:\Users\ahsan\Desktop\Progs\cSharp\Cars2\Cars2\obj\Debug\netcoreapp3.1\Cars2.AssemblyInfo.cs
+C:\Users\ahsan\Desktop\Progs\cSharp\Cars2\Cars2\bin\Debug\netcoreapp3.1\Cars2.exe
+C:\Users\ahsan\Desktop\Progs\cSharp\Cars2\Cars2\bin\Debug\netcoreapp3.1\Cars2.deps.json
+C:\Users\ahsan\Desktop\Progs\cSharp\Cars2\Cars2\bin\Debug\netcoreapp3.1\Cars2.runtimeconfig.json
+C:\Users\ahsan\Desktop\Progs\cSharp\Cars2\Cars2\bin\Debug\netcoreapp3.1\Cars2.runtimeconfig.dev.json
+C:\Users\ahsan\Desktop\Progs\cSharp\Cars2\Cars2\bin\Debug\netcoreapp3.1\Cars2.dll
+C:\Users\ahsan\Desktop\Progs\cSharp\Cars2\Cars2\bin\Debug\netcoreapp3.1\Cars2.pdb
+C:\Users\ahsan\Desktop\Progs\cSharp\Cars2\Cars2\obj\Debug\netcoreapp3.1\Cars2.dll
+C:\Users\ahsan\Desktop\Progs\cSharp\Cars2\Cars2\obj\Debug\netcoreapp3.1\Cars2.pdb
+C:\Users\ahsan\Desktop\Progs\cSharp\Cars2\Cars2\obj\Debug\netcoreapp3.1\Cars2.genruntimeconfig.cache

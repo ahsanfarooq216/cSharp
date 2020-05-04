@@ -1,0 +1,13 @@
+C:\Users\ahsan\Desktop\Progs\cSharp\HR2\HR2\bin\Debug\netcoreapp3.1\HR2.exe
+C:\Users\ahsan\Desktop\Progs\cSharp\HR2\HR2\bin\Debug\netcoreapp3.1\HR2.deps.json
+C:\Users\ahsan\Desktop\Progs\cSharp\HR2\HR2\bin\Debug\netcoreapp3.1\HR2.runtimeconfig.json
+C:\Users\ahsan\Desktop\Progs\cSharp\HR2\HR2\bin\Debug\netcoreapp3.1\HR2.runtimeconfig.dev.json
+C:\Users\ahsan\Desktop\Progs\cSharp\HR2\HR2\bin\Debug\netcoreapp3.1\HR2.dll
+C:\Users\ahsan\Desktop\Progs\cSharp\HR2\HR2\bin\Debug\netcoreapp3.1\HR2.pdb
+C:\Users\ahsan\Desktop\Progs\cSharp\HR2\HR2\obj\Debug\netcoreapp3.1\HR2.csprojAssemblyReference.cache
+C:\Users\ahsan\Desktop\Progs\cSharp\HR2\HR2\obj\Debug\netcoreapp3.1\HR2.csproj.CoreCompileInputs.cache
+C:\Users\ahsan\Desktop\Progs\cSharp\HR2\HR2\obj\Debug\netcoreapp3.1\HR2.AssemblyInfoInputs.cache
+C:\Users\ahsan\Desktop\Progs\cSharp\HR2\HR2\obj\Debug\netcoreapp3.1\HR2.AssemblyInfo.cs
+C:\Users\ahsan\Desktop\Progs\cSharp\HR2\HR2\obj\Debug\netcoreapp3.1\HR2.dll
+C:\Users\ahsan\Desktop\Progs\cSharp\HR2\HR2\obj\Debug\netcoreapp3.1\HR2.pdb
+C:\Users\ahsan\Desktop\Progs\cSharp\HR2\HR2\obj\Debug\netcoreapp3.1\HR2.genruntimeconfig.cache

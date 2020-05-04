@@ -1,0 +1,13 @@
+C:\Users\ahsan\Desktop\Progs\cSharp\IyeDisposable\IyeDisposable\bin\Debug\netcoreapp3.1\IyeDisposable.exe
+C:\Users\ahsan\Desktop\Progs\cSharp\IyeDisposable\IyeDisposable\bin\Debug\netcoreapp3.1\IyeDisposable.deps.json
+C:\Users\ahsan\Desktop\Progs\cSharp\IyeDisposable\IyeDisposable\bin\Debug\netcoreapp3.1\IyeDisposable.runtimeconfig.json
+C:\Users\ahsan\Desktop\Progs\cSharp\IyeDisposable\IyeDisposable\bin\Debug\netcoreapp3.1\IyeDisposable.runtimeconfig.dev.json
+C:\Users\ahsan\Desktop\Progs\cSharp\IyeDisposable\IyeDisposable\bin\Debug\netcoreapp3.1\IyeDisposable.dll
+C:\Users\ahsan\Desktop\Progs\cSharp\IyeDisposable\IyeDisposable\bin\Debug\netcoreapp3.1\IyeDisposable.pdb
+C:\Users\ahsan\Desktop\Progs\cSharp\IyeDisposable\IyeDisposable\obj\Debug\netcoreapp3.1\IyeDisposable.csprojAssemblyReference.cache
+C:\Users\ahsan\Desktop\Progs\cSharp\IyeDisposable\IyeDisposable\obj\Debug\netcoreapp3.1\IyeDisposable.csproj.CoreCompileInputs.cache
+C:\Users\ahsan\Desktop\Progs\cSharp\IyeDisposable\IyeDisposable\obj\Debug\netcoreapp3.1\IyeDisposable.AssemblyInfoInputs.cache
+C:\Users\ahsan\Desktop\Progs\cSharp\IyeDisposable\IyeDisposable\obj\Debug\netcoreapp3.1\IyeDisposable.AssemblyInfo.cs
+C:\Users\ahsan\Desktop\Progs\cSharp\IyeDisposable\IyeDisposable\obj\Debug\netcoreapp3.1\IyeDisposable.dll
+C:\Users\ahsan\Desktop\Progs\cSharp\IyeDisposable\IyeDisposable\obj\Debug\netcoreapp3.1\IyeDisposable.pdb
+C:\Users\ahsan\Desktop\Progs\cSharp\IyeDisposable\IyeDisposable\obj\Debug\netcoreapp3.1\IyeDisposable.genruntimeconfig.cache

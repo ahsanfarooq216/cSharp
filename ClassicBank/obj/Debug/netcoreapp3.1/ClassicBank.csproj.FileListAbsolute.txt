@@ -1,0 +1,11 @@
+C:\Users\ahsan\Desktop\Progs\cSharp\ClassicBank\bin\Debug\netcoreapp3.1\ClassicBank.exe
+C:\Users\ahsan\Desktop\Progs\cSharp\ClassicBank\bin\Debug\netcoreapp3.1\ClassicBank.deps.json
+C:\Users\ahsan\Desktop\Progs\cSharp\ClassicBank\bin\Debug\netcoreapp3.1\ClassicBank.runtimeconfig.json
+C:\Users\ahsan\Desktop\Progs\cSharp\ClassicBank\bin\Debug\netcoreapp3.1\ClassicBank.runtimeconfig.dev.json
+C:\Users\ahsan\Desktop\Progs\cSharp\ClassicBank\bin\Debug\netcoreapp3.1\ClassicBank.dll
+C:\Users\ahsan\Desktop\Progs\cSharp\ClassicBank\bin\Debug\netcoreapp3.1\ClassicBank.pdb
+C:\Users\ahsan\Desktop\Progs\cSharp\ClassicBank\obj\Debug\netcoreapp3.1\ClassicBank.csprojAssemblyReference.cache
+C:\Users\ahsan\Desktop\Progs\cSharp\ClassicBank\obj\Debug\netcoreapp3.1\ClassicBank.AssemblyInfoInputs.cache
+C:\Users\ahsan\Desktop\Progs\cSharp\ClassicBank\obj\Debug\netcoreapp3.1\ClassicBank.AssemblyInfo.cs
+C:\Users\ahsan\Desktop\Progs\cSharp\ClassicBank\obj\Debug\netcoreapp3.1\ClassicBank.dll
+C:\Users\ahsan\Desktop\Progs\cSharp\ClassicBank\obj\Debug\netcoreapp3.1\ClassicBank.pdb

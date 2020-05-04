@@ -1,0 +1,11 @@
+C:\Users\ahsan\Desktop\Progs\cSharp\BranchNLoops\bin\Debug\netcoreapp3.1\BranchNLoops.exe
+C:\Users\ahsan\Desktop\Progs\cSharp\BranchNLoops\bin\Debug\netcoreapp3.1\BranchNLoops.deps.json
+C:\Users\ahsan\Desktop\Progs\cSharp\BranchNLoops\bin\Debug\netcoreapp3.1\BranchNLoops.runtimeconfig.json
+C:\Users\ahsan\Desktop\Progs\cSharp\BranchNLoops\bin\Debug\netcoreapp3.1\BranchNLoops.runtimeconfig.dev.json
+C:\Users\ahsan\Desktop\Progs\cSharp\BranchNLoops\bin\Debug\netcoreapp3.1\BranchNLoops.dll
+C:\Users\ahsan\Desktop\Progs\cSharp\BranchNLoops\bin\Debug\netcoreapp3.1\BranchNLoops.pdb
+C:\Users\ahsan\Desktop\Progs\cSharp\BranchNLoops\obj\Debug\netcoreapp3.1\BranchNLoops.csprojAssemblyReference.cache
+C:\Users\ahsan\Desktop\Progs\cSharp\BranchNLoops\obj\Debug\netcoreapp3.1\BranchNLoops.AssemblyInfoInputs.cache
+C:\Users\ahsan\Desktop\Progs\cSharp\BranchNLoops\obj\Debug\netcoreapp3.1\BranchNLoops.AssemblyInfo.cs
+C:\Users\ahsan\Desktop\Progs\cSharp\BranchNLoops\obj\Debug\netcoreapp3.1\BranchNLoops.dll
+C:\Users\ahsan\Desktop\Progs\cSharp\BranchNLoops\obj\Debug\netcoreapp3.1\BranchNLoops.pdb

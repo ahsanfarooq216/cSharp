@@ -1,0 +1,11 @@
+C:\Users\ahsan\Desktop\Progs\cSharp\NumberInC1\bin\Debug\netcoreapp3.1\NumberInC1.exe
+C:\Users\ahsan\Desktop\Progs\cSharp\NumberInC1\bin\Debug\netcoreapp3.1\NumberInC1.deps.json
+C:\Users\ahsan\Desktop\Progs\cSharp\NumberInC1\bin\Debug\netcoreapp3.1\NumberInC1.runtimeconfig.json
+C:\Users\ahsan\Desktop\Progs\cSharp\NumberInC1\bin\Debug\netcoreapp3.1\NumberInC1.runtimeconfig.dev.json
+C:\Users\ahsan\Desktop\Progs\cSharp\NumberInC1\bin\Debug\netcoreapp3.1\NumberInC1.dll
+C:\Users\ahsan\Desktop\Progs\cSharp\NumberInC1\bin\Debug\netcoreapp3.1\NumberInC1.pdb
+C:\Users\ahsan\Desktop\Progs\cSharp\NumberInC1\obj\Debug\netcoreapp3.1\NumberInC1.csprojAssemblyReference.cache
+C:\Users\ahsan\Desktop\Progs\cSharp\NumberInC1\obj\Debug\netcoreapp3.1\NumberInC1.AssemblyInfoInputs.cache
+C:\Users\ahsan\Desktop\Progs\cSharp\NumberInC1\obj\Debug\netcoreapp3.1\NumberInC1.AssemblyInfo.cs
+C:\Users\ahsan\Desktop\Progs\cSharp\NumberInC1\obj\Debug\netcoreapp3.1\NumberInC1.dll
+C:\Users\ahsan\Desktop\Progs\cSharp\NumberInC1\obj\Debug\netcoreapp3.1\NumberInC1.pdb

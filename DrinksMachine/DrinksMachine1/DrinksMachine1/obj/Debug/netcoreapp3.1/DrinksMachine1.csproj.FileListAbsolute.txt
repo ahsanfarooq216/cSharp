@@ -1,0 +1,13 @@
+C:\Users\ahsan\Desktop\Progs\cSharp\DrinksMachine\DrinksMachine1\DrinksMachine1\bin\Debug\netcoreapp3.1\DrinksMachine1.exe
+C:\Users\ahsan\Desktop\Progs\cSharp\DrinksMachine\DrinksMachine1\DrinksMachine1\bin\Debug\netcoreapp3.1\DrinksMachine1.deps.json
+C:\Users\ahsan\Desktop\Progs\cSharp\DrinksMachine\DrinksMachine1\DrinksMachine1\bin\Debug\netcoreapp3.1\DrinksMachine1.runtimeconfig.json
+C:\Users\ahsan\Desktop\Progs\cSharp\DrinksMachine\DrinksMachine1\DrinksMachine1\bin\Debug\netcoreapp3.1\DrinksMachine1.runtimeconfig.dev.json
+C:\Users\ahsan\Desktop\Progs\cSharp\DrinksMachine\DrinksMachine1\DrinksMachine1\bin\Debug\netcoreapp3.1\DrinksMachine1.dll
+C:\Users\ahsan\Desktop\Progs\cSharp\DrinksMachine\DrinksMachine1\DrinksMachine1\bin\Debug\netcoreapp3.1\DrinksMachine1.pdb
+C:\Users\ahsan\Desktop\Progs\cSharp\DrinksMachine\DrinksMachine1\DrinksMachine1\obj\Debug\netcoreapp3.1\DrinksMachine1.csprojAssemblyReference.cache
+C:\Users\ahsan\Desktop\Progs\cSharp\DrinksMachine\DrinksMachine1\DrinksMachine1\obj\Debug\netcoreapp3.1\DrinksMachine1.csproj.CoreCompileInputs.cache
+C:\Users\ahsan\Desktop\Progs\cSharp\DrinksMachine\DrinksMachine1\DrinksMachine1\obj\Debug\netcoreapp3.1\DrinksMachine1.AssemblyInfoInputs.cache
+C:\Users\ahsan\Desktop\Progs\cSharp\DrinksMachine\DrinksMachine1\DrinksMachine1\obj\Debug\netcoreapp3.1\DrinksMachine1.AssemblyInfo.cs
+C:\Users\ahsan\Desktop\Progs\cSharp\DrinksMachine\DrinksMachine1\DrinksMachine1\obj\Debug\netcoreapp3.1\DrinksMachine1.dll
+C:\Users\ahsan\Desktop\Progs\cSharp\DrinksMachine\DrinksMachine1\DrinksMachine1\obj\Debug\netcoreapp3.1\DrinksMachine1.pdb
+C:\Users\ahsan\Desktop\Progs\cSharp\DrinksMachine\DrinksMachine1\DrinksMachine1\obj\Debug\netcoreapp3.1\DrinksMachine1.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ahsan\Desktop\Progs\cSharp\List1VS\List1VS\bin\Debug\netcoreapp3.1\List1VS.exe
+C:\Users\ahsan\Desktop\Progs\cSharp\List1VS\List1VS\bin\Debug\netcoreapp3.1\List1VS.deps.json
+C:\Users\ahsan\Desktop\Progs\cSharp\List1VS\List1VS\bin\Debug\netcoreapp3.1\List1VS.runtimeconfig.json
+C:\Users\ahsan\Desktop\Progs\cSharp\List1VS\List1VS\bin\Debug\netcoreapp3.1\List1VS.runtimeconfig.dev.json
+C:\Users\ahsan\Desktop\Progs\cSharp\List1VS\List1VS\bin\Debug\netcoreapp3.1\List1VS.dll
+C:\Users\ahsan\Desktop\Progs\cSharp\List1VS\List1VS\bin\Debug\netcoreapp3.1\List1VS.pdb
+C:\Users\ahsan\Desktop\Progs\cSharp\List1VS\List1VS\obj\Debug\netcoreapp3.1\List1VS.csprojAssemblyReference.cache
+C:\Users\ahsan\Desktop\Progs\cSharp\List1VS\List1VS\obj\Debug\netcoreapp3.1\List1VS.csproj.CoreCompileInputs.cache
+C:\Users\ahsan\Desktop\Progs\cSharp\List1VS\List1VS\obj\Debug\netcoreapp3.1\List1VS.AssemblyInfoInputs.cache
+C:\Users\ahsan\Desktop\Progs\cSharp\List1VS\List1VS\obj\Debug\netcoreapp3.1\List1VS.AssemblyInfo.cs
+C:\Users\ahsan\Desktop\Progs\cSharp\List1VS\List1VS\obj\Debug\netcoreapp3.1\List1VS.dll
+C:\Users\ahsan\Desktop\Progs\cSharp\List1VS\List1VS\obj\Debug\netcoreapp3.1\List1VS.pdb
+C:\Users\ahsan\Desktop\Progs\cSharp\List1VS\List1VS\obj\Debug\netcoreapp3.1\List1VS.genruntimeconfig.cache

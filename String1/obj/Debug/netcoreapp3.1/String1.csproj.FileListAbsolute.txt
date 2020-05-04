@@ -1,0 +1,11 @@
+C:\Users\ahsan\Desktop\Progs\cSharp\String1\bin\Debug\netcoreapp3.1\String1.exe
+C:\Users\ahsan\Desktop\Progs\cSharp\String1\bin\Debug\netcoreapp3.1\String1.deps.json
+C:\Users\ahsan\Desktop\Progs\cSharp\String1\bin\Debug\netcoreapp3.1\String1.runtimeconfig.json
+C:\Users\ahsan\Desktop\Progs\cSharp\String1\bin\Debug\netcoreapp3.1\String1.runtimeconfig.dev.json
+C:\Users\ahsan\Desktop\Progs\cSharp\String1\bin\Debug\netcoreapp3.1\String1.dll
+C:\Users\ahsan\Desktop\Progs\cSharp\String1\bin\Debug\netcoreapp3.1\String1.pdb
+C:\Users\ahsan\Desktop\Progs\cSharp\String1\obj\Debug\netcoreapp3.1\String1.csprojAssemblyReference.cache
+C:\Users\ahsan\Desktop\Progs\cSharp\String1\obj\Debug\netcoreapp3.1\String1.AssemblyInfoInputs.cache
+C:\Users\ahsan\Desktop\Progs\cSharp\String1\obj\Debug\netcoreapp3.1\String1.AssemblyInfo.cs
+C:\Users\ahsan\Desktop\Progs\cSharp\String1\obj\Debug\netcoreapp3.1\String1.dll
+C:\Users\ahsan\Desktop\Progs\cSharp\String1\obj\Debug\netcoreapp3.1\String1.pdb

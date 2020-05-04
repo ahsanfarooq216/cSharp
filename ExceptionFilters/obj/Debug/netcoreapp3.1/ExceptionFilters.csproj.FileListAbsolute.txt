@@ -1,0 +1,11 @@
+C:\Users\ahsan\Desktop\Progs\cSharp\ExceptionFilters\bin\Debug\netcoreapp3.1\ExceptionFilters.exe
+C:\Users\ahsan\Desktop\Progs\cSharp\ExceptionFilters\bin\Debug\netcoreapp3.1\ExceptionFilters.deps.json
+C:\Users\ahsan\Desktop\Progs\cSharp\ExceptionFilters\bin\Debug\netcoreapp3.1\ExceptionFilters.runtimeconfig.json
+C:\Users\ahsan\Desktop\Progs\cSharp\ExceptionFilters\bin\Debug\netcoreapp3.1\ExceptionFilters.runtimeconfig.dev.json
+C:\Users\ahsan\Desktop\Progs\cSharp\ExceptionFilters\bin\Debug\netcoreapp3.1\ExceptionFilters.dll
+C:\Users\ahsan\Desktop\Progs\cSharp\ExceptionFilters\bin\Debug\netcoreapp3.1\ExceptionFilters.pdb
+C:\Users\ahsan\Desktop\Progs\cSharp\ExceptionFilters\obj\Debug\netcoreapp3.1\ExceptionFilters.csprojAssemblyReference.cache
+C:\Users\ahsan\Desktop\Progs\cSharp\ExceptionFilters\obj\Debug\netcoreapp3.1\ExceptionFilters.AssemblyInfoInputs.cache
+C:\Users\ahsan\Desktop\Progs\cSharp\ExceptionFilters\obj\Debug\netcoreapp3.1\ExceptionFilters.AssemblyInfo.cs
+C:\Users\ahsan\Desktop\Progs\cSharp\ExceptionFilters\obj\Debug\netcoreapp3.1\ExceptionFilters.dll
+C:\Users\ahsan\Desktop\Progs\cSharp\ExceptionFilters\obj\Debug\netcoreapp3.1\ExceptionFilters.pdb

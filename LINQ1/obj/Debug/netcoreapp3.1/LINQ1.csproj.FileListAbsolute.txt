@@ -1,0 +1,11 @@
+C:\Users\ahsan\Desktop\Progs\cSharp\LINQ1\bin\Debug\netcoreapp3.1\LINQ1.exe
+C:\Users\ahsan\Desktop\Progs\cSharp\LINQ1\bin\Debug\netcoreapp3.1\LINQ1.deps.json
+C:\Users\ahsan\Desktop\Progs\cSharp\LINQ1\bin\Debug\netcoreapp3.1\LINQ1.runtimeconfig.json
+C:\Users\ahsan\Desktop\Progs\cSharp\LINQ1\bin\Debug\netcoreapp3.1\LINQ1.runtimeconfig.dev.json
+C:\Users\ahsan\Desktop\Progs\cSharp\LINQ1\bin\Debug\netcoreapp3.1\LINQ1.dll
+C:\Users\ahsan\Desktop\Progs\cSharp\LINQ1\bin\Debug\netcoreapp3.1\LINQ1.pdb
+C:\Users\ahsan\Desktop\Progs\cSharp\LINQ1\obj\Debug\netcoreapp3.1\LINQ1.csprojAssemblyReference.cache
+C:\Users\ahsan\Desktop\Progs\cSharp\LINQ1\obj\Debug\netcoreapp3.1\LINQ1.AssemblyInfoInputs.cache
+C:\Users\ahsan\Desktop\Progs\cSharp\LINQ1\obj\Debug\netcoreapp3.1\LINQ1.AssemblyInfo.cs
+C:\Users\ahsan\Desktop\Progs\cSharp\LINQ1\obj\Debug\netcoreapp3.1\LINQ1.dll
+C:\Users\ahsan\Desktop\Progs\cSharp\LINQ1\obj\Debug\netcoreapp3.1\LINQ1.pdb
